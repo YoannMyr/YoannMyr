@@ -3,6 +3,7 @@
 
 
 ## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/yoann-mayoussier-b02200288)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/YoannMyr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yoannnm) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/user:22055678) 
 
 # 💻 Tech Stack:
@@ -11,6 +12,8 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YoannMyr&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YoannMyr&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+
 
 
 

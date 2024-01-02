@@ -1,5 +1,5 @@
 # 💫  About Me:
-📚 Currently studying Web development at OnlineFormaPro<br>🌎 France<br>📍 Besançon 25000<br>🔍 Looking for an apprenticeship for 2024<br>🫱🏻‍🫲🏼 Like to work in team and help people if it is in my abilities<br>🚀 Always ready to learn something new !<br>💥 Motivated and dynamic<br>💬 Ask me about anything !
+📚Junior web developer<br>🌎 France<br>📍 Besançon 25000<br>🔍 Like to work in team and help people if it is in my abilities<br>🚀 Always ready to learn something new !<br>💥 Motivated and dynamic<br>💬 Ask me about anything !
 
 
 ## 🌐 Socials:
